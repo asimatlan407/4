@@ -1,7 +1,20 @@
 [
     {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1675395665,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gac_",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1.1667619666.EAIaIQobChMI6NDPrI-W-wIV2QiLCh0TRw7REAAYASAAEgI3lfD_BwE"
+    },
+    {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1704589345.103698,
+        "expirationDate": 1704622044.388939,
         "hostOnly": true,
         "httpOnly": false,
         "name": "device_token",
@@ -10,11 +23,88 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8tZGV2aWNlLXlzLXRyIiwidHlwIjoiSldUIn0.eyJpZCI6ImQ5MGM0YjkzLWY1OWMtNGU1OC04ODc3LTQ3ZTE4OGM5OGY1NiIsImNsaWVudF9pZCI6InZvbG8iLCJ1c2VyX2lkIjoidHJpdmo5dmwiLCJleHBpcmVzIjo0ODIzNjIxODU3LCJ0b2tlbl90eXBlIjoiYmVhcmVyIiwic2NvcGUiOiJERVZJQ0VfVE9LRU4ifQ.QnlwWsD35WjFORRwk2Y7Dc4fCiYl6yfrFdvs72n6e8ODJxSW16_nr5Tg3qd6iLWYRmtQ3L_nzDEu-WUE3I5yv5g_kbpiuQvGdkVdr5eP6SWD8Rt4PrfQgEtoByVoTPFnf4_WKc0DfIN-TdmraWGV9u0WIwRaURVjmqaigPLzCzVqt3DWHwaG9nrgikZHXRVUoy3yeeUGNFWeiiiU6vuTOpLcDXf-QTWS7qy7XZHVmy5TohexbPqD4KYBaeJPHGjQb9qelbhA-TLh3d9Oi6J2WhXwrPOX0wAnO00RxUZxPz_hSPSxuWZ2skkgav3fk1p1gjlyNvB68R2O8-5w9rYxCQ"
+        "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8tZGV2aWNlLXlzLXRyIiwidHlwIjoiSldUIn0.eyJpZCI6ImVkNzIzZTExLTM4NmMtNGIzZC1iYTEzLTUxYTdlYmIxOGQ1MyIsImNsaWVudF9pZCI6InZvbG8iLCJ1c2VyX2lkIjoidHJlNmZqa2UiLCJleHBpcmVzIjo0ODIxMjE5Njc5LCJ0b2tlbl90eXBlIjoiYmVhcmVyIiwic2NvcGUiOiJERVZJQ0VfVE9LRU4ifQ.GOFXGfy6oBJwTpVxnsuAKSg8sIvblM62wTcAlxkvLehDTzrKIH0NVQx_24-9NECVSau79gs9o2jXLYvmEYz9Z4mjDNkzGdG_41XoTPJhGGxFJWQ5K5htJ1XC1pkWhk1EfpCHEXZioVffaubuQdqd4h_sL8R-zm8egBPjSY8BeXnseuMxW_buZ7wpHPMhRNI5YVBeQUz7UVZy79S4M3bwDuYFGBIwWMuZPOTcXc27AuBBdoCgVnXrMUlSybpDNy_fC7KciJYYXSoOo3KmaF0GUnL1wr4aoFT2AxpeHE3I4-OuoT6tO8iHtMYIYeKIjkwyMa2ljDWbAucMxPJADpEH3g"
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1672625025.856467,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "dhProviderTracked",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1670065011,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_hjAbsoluteSessionInProgress",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1670149609,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1757303363.1669988480"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1701599211,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_hjSessionUser_1543571",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpZCI6ImZjNDcyZGRhLThmYmYtNTk2NS05ODBlLWZkNTdiYTFjMmRjNCIsImNyZWF0ZWQiOjE2Njc2MTk2ODEwNjAsImV4aXN0aW5nIjp0cnVlfQ=="
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1670063269,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_pxff_cc",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "U2FtZVNpdGU9TGF4Ow=="
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1670063331,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_hjIncludedInSessionSample",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1672655208.748198,
         "hostOnly": true,
         "httpOnly": false,
         "name": "AppVersion",
@@ -27,7 +117,7 @@
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1677795710.597338,
+        "expirationDate": 1675395663.74378,
         "hostOnly": true,
         "httpOnly": true,
         "name": "ld_key",
@@ -36,24 +126,62 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "2a09%3Abac1%3A72e0%3A10%3A%3A150%3A38"
+        "value": "31.223.26.104"
     },
     {
         "domain": ".yemeksepeti.com",
-        "expirationDate": 1701557820,
+        "expirationDate": 1675395665,
         "hostOnly": false,
         "httpOnly": false,
-        "name": "_pxvid",
+        "name": "_gcl_au",
         "path": "/",
         "sameSite": null,
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "9b9319ea-7294-11ed-971e-45726675495a"
+        "value": "1.1.617736419.1667619666"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "pxcts",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "adb03515-5cbb-11ed-994a-7373424c4e65"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1699155667,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_pxvid",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "ab84d191-5cbb-11ed-83d3-4e4e5544624f"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1704623209.716402,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1390535439.1667619666"
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1704579710.597312,
+        "expirationDate": 1702179663.743755,
         "hostOnly": true,
         "httpOnly": false,
         "name": "dhhPerseusGuestId",
@@ -62,7 +190,20 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1670019708.8874402032.jwRZlMcp08"
+        "value": "1667619662.9568966339.R44BiBuK32"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1670063808.74816,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "d343492da76ee711b414ff6c25895350"
     },
     {
         "domain": "www.yemeksepeti.com",
@@ -74,11 +215,76 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "G/qfqbXeDdt2f9lcMHJcNJ4YgTB5ytqOHnMYWtYwxL2MVFlZAA5PpwOFN/4oiUo7ERqD0mCeEIjXqujdnvTJPg==:DvwIU4R1tFKN8HN6i8N53hns4WLeJzQSaLDjTRaanUsBqADPlJYqvnXzjw4JEHdVUDPuz-slDgn870XoFpo6mF0j6VLzQcpwWRa8AxD/Cp0="
+        "value": "1JODxC4r3RziX/oViKEusR/fh4KIuOf8-MdmZrOr5Au12KwmtramKVw77NFZryPXc3m65azAW-RXcby8-CXnJA==:nlC9boCjWDUzyIvO2J3iAgM1CSKFvqkGu80EXE0PlY9sy/L5URCTeWzc2WnhnNoBT8gEaoa71cZAFudhtmOBrgcX2SNXaJ/VPZouEUBUnmu8S96aiWB4gIuj3eycJNkM"
     },
     {
         "domain": ".yemeksepeti.com",
-        "expirationDate": 1670034032.315102,
+        "expirationDate": 1701618986,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ab.storage.userId.f767a324-7168-4b7e-8687-652a3ac864bd",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22g%22%3A%22TR_48843258%22%2C%22c%22%3A1670062046643%2C%22l%22%3A1670062046643%7D"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1670063540,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_px3",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "8a39058f46a0237c8833e80f8520402f3429035117171c40a118eb27fbf68d5c:SIpEydwkckiclUGifKWIC0E7IfhEA/DPss/K0kXqt7xZvOe/tQgJxQ5ZGPsWJg/JJECDlIHTtl9Tks+gBj1kQw==:1000:JGecLU+xYGfES18rvmVrW6oQIv397eNTxOFFBLO5vXClQ3WN78h7wWhmmFrf28BAM0JpKEgMoYeqtYeCzeks8S6x395D2CA8HCHoaFDjhVZ9HefL1kdViBa6TCSilyLpIdluCvoUBVT71qnganaxYAma1S98WMyQdSwqtLaSuzyPSWtfCLO2YhMXtsNUflmkqQC7xE3ks/fDYqF6aQNcsQ=="
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1670065643.748228,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "userSource",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "volo"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1702179667.589779,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__ssid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "15e8bf818b0769131c996f402a1e7a6"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1701620150,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ab.storage.sessionId.f767a324-7168-4b7e-8687-652a3ac864bd",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22g%22%3A%22d67b490f-6ee5-8c62-e224-28b5b395367e%22%2C%22e%22%3A1670065010476%2C%22c%22%3A1670062046644%2C%22l%22%3A1670063210476%7D"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1670065003.680874,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__cf_bm",
@@ -87,11 +293,115 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "Mtio4C9goLX6N6HROB7R5E__pobpU0rYjfvvtxjoh1M-1670032229-0-AY4tD+YCyT549Ev8okMQDVsBa0MZ4FGDhhwmgOvy+1BwencBTF2WxKC0BfHMI16Y4pDzW+323VUnhi12mxE8Bfg="
+        "value": "CjQUJ3HxtNNrwF7oIfuyng2vX_KFPJMtOJzEimeTWhU-1670063201-0-ASxhoEJvh8ULg0KrqR2DfX7yd2G9G6wQFpxBu2pWmUkVE9+hjFEiGIV6IK6NnW/kfFH7uWZ5XTrZnrLumzViARo="
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1670063264,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_dc_gtm_UA-86673819-11",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1677839212,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "fb.1.1667619666190.674649396"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1704623209.708834,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_W5PM07D07L",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS1.1.1670061762.9.1.1670063209.55.0.0"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1675395666,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gac_UA-86673819-11",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1.1667619666.EAIaIQobChMI6NDPrI-W-wIV2QiLCh0TRw7REAAYASAAEgI3lfD_BwE"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1675395666,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gcl_aw",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GCL.1667619666.EAIaIQobChMI6NDPrI-W-wIV2QiLCh0TRw7REAAYASAAEgI3lfD_BwE"
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1670065011,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_hjSession_1543571",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpZCI6Ijk0MDIyZGFmLTY2MmMtNGJlNi1iYjg4LWNlOThjZWM1Yjg0ZCIsImNyZWF0ZWQiOjE2NzAwNjE3Njc5NTAsImluU2FtcGxlIjpmYWxzZX0="
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1670035839,
+        "expirationDate": 1704623209.719142,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_tq_id.TV-276372-1.c7a5",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "2c8b7c759c41a08f.1667619666.0.1670063210.."
+    },
+    {
+        "domain": ".yemeksepeti.com",
+        "expirationDate": 1699176621,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ab.storage.deviceId.f767a324-7168-4b7e-8687-652a3ac864bd",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22g%22%3A%2254e8fd4a-6632-25b2-2150-d627bab7b7fb%22%2C%22c%22%3A1667619681134%2C%22l%22%3A1667619681134%7D"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1670066810,
         "hostOnly": true,
         "httpOnly": false,
         "name": "dhhPerseusHitId",
@@ -100,11 +410,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1670032239357.68014013316997520.i0uslw4ohg"
+        "value": "1670063210459.679363113238316200.ksivf7uvb2"
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1670034039,
+        "expirationDate": 1670065010,
         "hostOnly": true,
         "httpOnly": false,
         "name": "dhhPerseusSessionId",
@@ -113,7 +423,19 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1670027282.3011542559.lFzHxAY9yA"
+        "value": "1670061759330.331761258745625800.92ijgiu5w5"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "fbaddtocart",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
     },
     {
         "domain": "www.yemeksepeti.com",
@@ -129,7 +451,19 @@
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1701569025.856454,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "locationGeoLocatorTrackedStatus",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "expirationDate": 1701598044.388957,
         "hostOnly": true,
         "httpOnly": false,
         "name": "refresh_token",
@@ -138,11 +472,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "683xhh1xfm8tbqeu5zvxs6ltbxlcl1k47tu9xkrp"
+        "value": "vqshciaxtk8a63t2ggf06o7qmyi8q8o87k2mjqoo"
     },
     {
         "domain": "www.yemeksepeti.com",
-        "expirationDate": 1670036625.856429,
+        "expirationDate": 1670065643.748213,
         "hostOnly": true,
         "httpOnly": false,
         "name": "token",
@@ -151,6 +485,30 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8teXMtdHIiLCJ0eXAiOiJKV1QifQ.eyJpZCI6Imt1a3NnOHQ4NTR5aW5wNTgzMTdvZHlycDRxMGQwaThoYTA5NmFjcGEiLCJjbGllbnRfaWQiOiJ2b2xvIiwidXNlcl9pZCI6InRyaXZqOXZsIiwiZXhwaXJlcyI6MTY3MDAzNjYyMywidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjoiQVBJX0NVU1RPTUVSIEFQSV9SRUdJU1RFUkVEX0NVU1RPTUVSIn0.YKhhc4ci1Fxm6dhyAlW47XFH7lQWj-N85jENhxZ9nUFN9iaMoXNO4QMbgwAdEFNzzJUhHae__jS_vMbq7WggUyBRZ-eEqHsdGK9Z2ebX929pfrR4PMl3tK1WY850jFGb4u4qEVGW76kNC4ti6XPeezblZI6kV_KRbw773qTLcqriov1mbP-Jo09EgcWKHzbQjFIpytn_UbGduB6XuoX1xT01D8RzJbwJoAWmdP09urleoPb61yFpCIz65mYa4ZS3JVG84BXVODDLkGhEI2aVkHmzIE3dBrVtL5sreyo3_Cp3L18_coZO7J1moiaszRYJTMtGWKocsHz-gPaY2R_S0g"
+        "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8teXMtdHIiLCJ0eXAiOiJKV1QifQ.eyJpZCI6Imd5Z3M2bHhzejFrOXR5ZTg3anYyZ2twbWxzeTVwazdiNXRzY3dmN2EiLCJjbGllbnRfaWQiOiJ2b2xvIiwidXNlcl9pZCI6InRyZTZmamtlIiwiZXhwaXJlcyI6MTY3MDA2NTY0MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjoiQVBJX0NVU1RPTUVSIEFQSV9SRUdJU1RFUkVEX0NVU1RPTUVSIn0.iry_pOqtPW4-bSgbyTqfFHFMDmTnDiAJPnrO7H1vSw5kZTnLTgbGAMj13COWv4h415ewFANpBJOhhiMY8MNCtC7erf_zRSLhpFeIRqeYqtffbVy2s70PkSxgH80GKWQkx7lEWC6Rb_45l-WgzGDqNnLoCP0DEop6Kx_24rrtam6gSup6Gf944VYqTvDdilcI0FLruTDSnl5eeIvR4ijemRFNO77A1MyEXjuB1WGE99cIIpvlUHsQnD0sx-vFGBruArtE8Pgo2_jy_FqoIY1yFQ9A4J0Qn2hpc6E_CcAGsyCvyQi8nBCf83vU59kfkS9oGqqryX4YrPOG4IYx918I9g"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "tpl_maps_sdk_tracking_status",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": "www.yemeksepeti.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ViewContentStatus",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
     }
 ]
